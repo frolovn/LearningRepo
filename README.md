@@ -1,2 +1,2 @@
-# LearningRepo
-Learning Course Repo
+## LearningRepo
+### Learning Course Repo
